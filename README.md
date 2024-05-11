@@ -4,8 +4,8 @@ Welcome to our custom version of the classic arcade game, Pac-Man. This game fea
 
 Features
 **Enhanced Levels**
-14 Unique Levels: Each level offers a unique maze design and a varying difficulty curve, suitable for both beginners and experts.
-Varied Locking Systems: Every level includes innovative mechanisms to unlock or access different parts of the maze.
+-  14 Unique Levels: Each level offers a unique maze design and a varying difficulty curve, suitable for both beginners and experts.
+-  Varied Locking Systems: Every level includes innovative mechanisms to unlock or access different parts of the maze.
 **Advanced Gameplay**
 Dynamic Difficulty: The complexity increases as you advance, with smarter ghost AI and more intricate mazes.
 Interactive Elements: Enjoy gameplay features like temporary walls, moving obstacles, and teleportation tiles.
