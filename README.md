@@ -16,9 +16,9 @@ Features
 -  Sound System: Each level comes with its own set of sounds, enhancing the immersive experience with retro game audio and effects for actions like eating pellets or losing a life.
 <details>
 <summary>How to Play</summary>
--  Navigate the Maze: Use the arrow keys to guide Pac-Man through the maze.
--  Eat Pellets: Clear the maze by eating all pellets while avoiding the ghosts.
--  Use Power Pellets: Gain the temporary ability to eat ghosts for extra points.
--  Unlock Areas: Fulfill specific conditions to unlock new paths and challenges.
--  Aim for High Scores: Increase your score for leaderboard ranking and to unlock advanced levels.
+1.  Navigate the Maze: Use the arrow keys to guide Pac-Man through the maze.<br>
+2.  Eat Pellets: Clear the maze by eating all pellets while avoiding the ghosts.<br>
+3.  Use Power Pellets: Gain the temporary ability to eat ghosts for extra points.<br>
+4.  Unlock Areas: Fulfill specific conditions to unlock new paths and challenges.<br>
+5.  Aim for High Scores: Increase your score for leaderboard ranking and to unlock advanced levels.<br>
 </details>
