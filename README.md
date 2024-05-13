@@ -10,3 +10,6 @@ Here are some key features:
 -  Leaderboard System: Scores are tracked on a global leaderboard, allowing players to compete for the top spots.
 -  Help Page: Includes detailed instructions and tips to help new players understand the game mechanics.
 -  Pause and Resume System: Players can pause the game at any moment and resume where they left off, making gameplay flexible and convenient.
+
+Have a glimpse of my project:
+![img13](https://github.com/f12-mou/Pacman/assets/78227158/d2a78c9f-7828-46b8-8457-a4da4074f7ad)
