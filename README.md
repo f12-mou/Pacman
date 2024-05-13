@@ -1,25 +1,12 @@
+This is my Level-1, Term-1 Project and the very first developed game. The repository hosts a reinterpretation of the classic arcade game Pac-Man, entirely developed in C++. The project aims to replicate the original gameplay experience while introducing some new features. 
 
-Welcome to our custom version of the classic arcade game, Pac-Man. This game features 14 unique levels, each with its own challenges and systems. Dive into different mazes, dodge smarter ghosts, and unlock new areas as you progress. Perfect for gamers looking for a nostalgic trip with a modern twist!
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="20px" height="20px"> &nbsp;Check out [the gameplay](https://www.youtube.com/watch?v=Ph3G2gmhZis)
 
+Here are some key features:
 
-Features
-<br>
--  **Enhanced Levels**
--  14 Unique Levels: Each level offers a unique maze design and a varying difficulty curve, suitable for both beginners and experts.
--  Varied Locking Systems: Every level includes innovative mechanisms to unlock or access different parts of the maze.<br>
--  **Advanced Gameplay**
--  Dynamic Difficulty: The complexity increases as you advance, with smarter ghost AI and more intricate mazes.
--  Interactive Elements: Enjoy gameplay features like temporary walls, moving obstacles, and teleportation tiles. <br>
--  **Scoring and Leaderboards**
--  Scoring System: Earn points by eating pellets, fruits, and blue ghosts. Achieve high scores to progress through locked areas.
--  Leaderboards: Compete against other players for a spot on the leaderboard, encouraging replayability and competition.<br>
--  **Audio Features**
--  Sound System: Each level comes with its own set of sounds, enhancing the immersive experience with retro game audio and effects for actions like eating pellets or losing a life.
-<details>
-<summary>How to Play</summary>
-1.  Navigate the Maze: Use the arrow keys to guide Pac-Man through the maze.<br>
-2.  Eat Pellets: Clear the maze by eating all pellets while avoiding the ghosts.<br>
-3.  Use Power Pellets: Gain the temporary ability to eat ghosts for extra points.<br>
-4.  Unlock Areas: Fulfill specific conditions to unlock new paths and challenges.<br>
-5.  Aim for High Scores: Increase your score for leaderboard ranking and to unlock advanced levels.<br>
-</details>
+-  Multiple Levels: The game includes 14 distinct levels, each with increasing complexity and challenges.
+-  Level Unlock System: Players can progress through levels, unlocking each new level by meeting specific criteria in the previous one.
+-  Scoring System: Points are awarded for pellet consumption, ghost encounters, and level completion speed, encouraging competitive play.
+-  Leaderboard System: Scores are tracked on a global leaderboard, allowing players to compete for the top spots.
+-  Help Page: Includes detailed instructions and tips to help new players understand the game mechanics.
+-  Pause and Resume System: Players can pause the game at any moment and resume where they left off, making gameplay flexible and convenient.
